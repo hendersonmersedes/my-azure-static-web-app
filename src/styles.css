@@ -23,7 +23,9 @@ main > h1 {
 }
 
 img {
+  text-align: center;
   border-radius: 50%;
+  padding-top:20px;
   padding-left: 50px;
   padding-right: 50px;
 }
