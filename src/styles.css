@@ -8,7 +8,7 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: blue;
+  background-color: green;
 }
 
 main {
@@ -24,9 +24,13 @@ main > h1 {
 
 ul {
     display: flex;
-    align-items: center;
+    background-color: tan;
     justify-content: center;
     list-style-type: none;
     margin-top: 50px;
     padding: 0;
+}
+
+li {
+    display: inline;
 }
