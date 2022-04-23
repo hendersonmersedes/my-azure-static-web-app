@@ -23,7 +23,9 @@ main > h1 {
 }
 
 .photo {
-  padding-left:20px;
+  border-radius: 50%;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .about {
