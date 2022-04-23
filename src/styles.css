@@ -28,7 +28,7 @@ main > h1 {
 
 .container {
   display: flex;
-  align-items: baseline;
+  align-items: center;
 }
 
 img {
