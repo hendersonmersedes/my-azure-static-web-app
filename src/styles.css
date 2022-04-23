@@ -22,6 +22,18 @@ main > h1 {
   font-size: 3.5em;
 }
 
+.photo {
+  padding-left:20px;
+}
+
+.about{
+  padding-left:20px;
+}
+
+.experience {
+  padding-left:20px;
+}
+
 ul {
     display: flex;
     background-color: tan;
@@ -29,8 +41,4 @@ ul {
     list-style-type: none;
     margin-top: 50px;
     padding: 20px;
-}
-
-li {
-    display: inline;
 }
