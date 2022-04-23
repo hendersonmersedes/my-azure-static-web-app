@@ -22,9 +22,9 @@ main > h1 {
   font-size: 3.5em;
 }
 
-.photo{
-  display: block;
-  text-align: center;
+.container {
+  display: flex;
+  align-items: baseline;
 }
 
 img {
