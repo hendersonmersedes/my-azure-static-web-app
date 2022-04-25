@@ -24,7 +24,7 @@ main > h1 {
 
 .logo {
   border-radius: 50%;
-  align-items: left;
+  padding-left: 20px;
 }
 
 .container {
@@ -47,9 +47,7 @@ main > h1 {
   padding-left:20px;
 }
 
-.links {
-  justify-items: flex-end;
-}
+
 ul {
     list-style-type: none;
     margin: 0;
